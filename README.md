@@ -23,11 +23,5 @@ Here are some ideas to get you started:
 * ⏳ i type in small caps which 
 
 
-<a href="https://github.com/sarthaxxxxx/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sarthaxxxxx&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/sarthaxxxxx/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=sarthaxxxxx&repo=convoychat" />
-</a>
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sarthaxxxxx&show_icons=true&theme=dark&count_private=true)
 
