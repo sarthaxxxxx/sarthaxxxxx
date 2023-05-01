@@ -1,6 +1,5 @@
 ### Hey, Sarthak here.
 
-* :exclamation: incoming CS PhD @ UT Dallas, TX.
 * 🎓 MS ECE @ USC, CA.
 * 🔭 research interests: speech processing, representation learning, self-supervised learning, computer vision, applied deep learning.
 * 🤔 either working hard or hardly working, but always open to collaborations.
