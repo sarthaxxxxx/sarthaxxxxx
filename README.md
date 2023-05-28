@@ -16,5 +16,6 @@
 
 ![](https://komarev.com/ghpvc/?username=sarthaxxxxx)
 
+<!---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sarthaxxxxx&show_icons=true&theme=dark&count_private=true)
-
+-->
