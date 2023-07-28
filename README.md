@@ -1,9 +1,9 @@
 ### Hey, Sarthak here.
 
-* 🎓 MS ECE @ USC, CA.
-* 🔭 research interests: speech processing, representation learning, self-supervised learning, computer vision, applied deep learning.
+* 🎓 CS PhD @ UT Dallas, TX. previously: MS EE @ USC, CA.
+* 🔭 research interests: data-efficient deep learning, representation learning, self-supervised learning, computer vision.
 * 🤔 either working hard or hardly working, but always open to collaborations.
-* 📫 reach me: maharana@usc.edu (to change soon)
+* 📫 reach me: sarthak.maharana@utdallas.edu or maharana@usc.edu
 * ⚡ you'd probably find me reading some SOTA DL research, glued to CS:GO gameplays or jamming to some old-school hip-hop. 
  
 > I body him.
