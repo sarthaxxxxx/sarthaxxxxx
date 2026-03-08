@@ -1,6 +1,6 @@
 # Hey, I'm Sarthak 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A81B&width=435&lines=CS+PhD+Candidate+%40+UT+Dallas;Computer+Vision+%7C+Continual+Learning;Researcher.+Cricket+fan.+Hip-hop+head.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A81B&width=435&lines=CS+PhD+Candidate+%40+UT+Dallas.)](https://git.io/typing-svg)
 
 ---
 
