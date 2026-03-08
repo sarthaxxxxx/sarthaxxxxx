@@ -1,10 +1,18 @@
-### Hey, Sarthak here.
+# Hey, I'm Sarthak 👋
 
-* 🎓 CS PhD @ UT Dallas, TX. previously: MS EE @ USC, CA.
-* 🔭 research interests: continual learning, data-efficient deep learning, representation learning, self-supervised learning, computer vision.
-* 🤔 either working hard or hardly working, but always open to collaborations.
-* 📫 reach me: sarthak.maharana@utdallas.edu or maharana@usc.edu
-* ⚡ you'd probably find me reading some SOTA DL research, glued to CS:GO gameplays or jamming to some old-school hip-hop. 
+🎓 **CS PhD Candidate @ UT Dallas** — Previously: MS EE @ USC, CA & BTech EE @ IIIT-Bhubaneswar, India
+
+🔭 My research interests are centered around **Computer Vision**, where I study **Continual Learning**, specifically. Super important topic in this day and age to keep our models updated on-the-fly.
+
+🤔 I'm either working *(extremely)* hard or hardly working, but always open to collaborations. Feel free to reach out!
+
+📫 **sarthak.maharana@utdallas.edu**
+
+🌐 **Portfolio:** [sarthaxxxxx.github.io](https://sarthaxxxxx.github.io/)
+
+---
+
+⚡ You'd probably find me reading some SOTA DL research, glued to cricket, or jamming to some old-school hip-hop. 
  
 > I body him.
 >> There's gonna come a point where you'll forget about what happened and you're gonna wanna come back at me.
