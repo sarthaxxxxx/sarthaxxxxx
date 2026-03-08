@@ -4,9 +4,9 @@
 
 ---
 
-🎓 **CS PhD Candidate @ UT Dallas** — Previously: MS EE @ USC, CA & BTech EE @ IIIT-Bhubaneswar, India
+🎓 Previously: MS EE @ USC, CA & BTech EE @ IIIT-Bhubaneswar, India
 
-🔭 My research interests are centered around **Computer Vision**, where I study **Continual Learning**, specifically.
+🔭 My research interests are centered around **Computer Vision**, where I study **Continual Learning**, specifically. Very important to keep our models learning on the fly!
 
 🤔 I'm either working *(extremely)* hard or hardly working — but always open to collaborations. Feel free to reach out!
 
